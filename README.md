@@ -14,6 +14,9 @@ Retail and e-commerce teams need a consolidated view of sales performance to mak
 | **YTD Products Sold** | Measures total product volume moved during the year |
 | **YTD Reviews** | Tracks year-to-date customer review volume as a proxy for satisfaction and engagement |
 
+## Data Source
+Dataset: [Amazon Global Sales & Review Data](https://www.kaggle.com/datasets/ssrai7/amazon-global-sales-and-review-data) by ssrai7 on Kaggle, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Dataset
 **`Amazon_Combined_Data.xlsx`** — 89,083 records across 6 fields:
 
